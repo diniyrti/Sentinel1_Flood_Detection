@@ -14,3 +14,6 @@ The goal is to identify flood-affected areas and understand their relationship w
 - Flooded areas are clearly detected through decreased SAR backscatter
 - Results show strong agreement between high rainfall and flood occurrence
 
+![image alt](https://github.com/diniyrti/Sentinel1_Flood_Detection/blob/main/images/Flood%20Detection.png)
+
+![image alt](https://github.com/diniyrti/Sentinel1_Flood_Detection/blob/main/images/Monthly%20Rainfall%20in%20North%20Aceh%20Regency%20-%202025.png)
